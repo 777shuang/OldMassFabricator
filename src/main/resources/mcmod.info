@@ -1,11 +1,11 @@
 [
 {
-  "modid": "OldMassFabricator",
-  "name": "OldMassFabricator",
+  "modid": "${modId}",
+  "name": "${modName}",
   "description": "add solid mass fabricator",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
+  "version": "${modVersion}",
+  "mcversion": "${minecraftVersion}",
+  "url": "https://ryokusitai.github.io/",
   "updateUrl": "",
   "authorList": [
     "ryokusitai"
@@ -16,7 +16,7 @@
   ],
   "parent":"IC2",
   "dependencies": [
-    "mod_MinecraftForge"
+    "Industrialcraft"
   ]
 }
 ]

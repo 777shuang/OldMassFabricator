@@ -35,4 +35,6 @@
  */
 dependencies {
     //runtimeOnlyNonPublishable("com.github.GTNewHorizons:NotEnoughItems:2.7.69-GTNH:dev")
+    //implementation fg.deobf("curse.maven:industrial-craft-242638:6833054")
+    api("net.industrial-craft:industrialcraft-2:2.2.828-experimental:dev")
 }
