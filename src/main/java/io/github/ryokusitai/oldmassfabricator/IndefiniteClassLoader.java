@@ -1,4 +1,4 @@
-package oldmassfabricator;
+package io.github.ryokusitai.oldmassfabricator;
 
 import java.lang.reflect.Method;
 

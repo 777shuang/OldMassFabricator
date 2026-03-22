@@ -1,4 +1,4 @@
-package oldmassfabricator;
+package io.github.ryokusitai.oldmassfabricator;
 
 import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;
@@ -15,7 +15,7 @@ import cpw.mods.fml.common.network.NetworkRegistry;
 import cpw.mods.fml.common.registry.GameRegistry;
 import ic2.api.info.Info;
 import ic2.api.item.IC2Items;
-import oldmassfabricator.network.PacketHandlerOMF;
+import io.github.ryokusitai.oldmassfabricator.network.PacketHandlerOMF;
 
 @Mod(
     modid = OldMassFabricator.MODID,

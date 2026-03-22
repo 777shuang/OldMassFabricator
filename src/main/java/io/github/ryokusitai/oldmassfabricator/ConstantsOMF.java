@@ -1,4 +1,4 @@
-package oldmassfabricator;
+package io.github.ryokusitai.oldmassfabricator;
 
 public class ConstantsOMF {
 

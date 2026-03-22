@@ -1,4 +1,4 @@
-package oldmassfabricator.container;
+package io.github.ryokusitai.oldmassfabricator.container;
 
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.player.InventoryPlayer;
@@ -7,7 +7,7 @@ import net.minecraft.inventory.Slot;
 import net.minecraft.item.ItemStack;
 import net.minecraft.tileentity.TileEntity;
 
-import oldmassfabricator.OldMassFabricatorTile;
+import io.github.ryokusitai.oldmassfabricator.OldMassFabricatorTile;
 
 public class OldMassFabricatorContainer extends Container {
 

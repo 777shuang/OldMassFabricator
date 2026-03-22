@@ -1,4 +1,4 @@
-package oldmassfabricator.container;
+package io.github.ryokusitai.oldmassfabricator.container;
 
 import net.minecraft.inventory.IInventory;
 import net.minecraft.inventory.Slot;

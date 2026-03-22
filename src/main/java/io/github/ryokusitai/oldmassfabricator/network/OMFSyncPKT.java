@@ -1,4 +1,4 @@
-package oldmassfabricator.network;
+package io.github.ryokusitai.oldmassfabricator.network;
 
 import cpw.mods.fml.common.network.simpleimpl.IMessage;
 import io.netty.buffer.ByteBuf;

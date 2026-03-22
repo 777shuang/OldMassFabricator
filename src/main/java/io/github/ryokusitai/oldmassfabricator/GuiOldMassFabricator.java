@@ -1,4 +1,4 @@
-package oldmassfabricator;
+package io.github.ryokusitai.oldmassfabricator;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.inventory.GuiContainer;
@@ -7,7 +7,7 @@ import net.minecraft.util.ResourceLocation;
 
 import org.lwjgl.opengl.GL11;
 
-import oldmassfabricator.container.OldMassFabricatorContainer;
+import io.github.ryokusitai.oldmassfabricator.container.OldMassFabricatorContainer;
 
 public class GuiOldMassFabricator extends GuiContainer {
 

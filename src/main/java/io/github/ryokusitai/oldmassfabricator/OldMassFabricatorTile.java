@@ -1,4 +1,4 @@
-package oldmassfabricator;
+package io.github.ryokusitai.oldmassfabricator;
 
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.inventory.IInventory;
@@ -15,8 +15,8 @@ import ic2.api.energy.event.EnergyTileUnloadEvent;
 import ic2.api.energy.tile.IEnergySink;
 import ic2.api.item.IC2Items;
 import ic2.api.tile.IWrenchable;
-import oldmassfabricator.network.OMFSyncPKT;
-import oldmassfabricator.network.PacketHandlerOMF;
+import io.github.ryokusitai.oldmassfabricator.network.OMFSyncPKT;
+import io.github.ryokusitai.oldmassfabricator.network.PacketHandlerOMF;
 
 public class OldMassFabricatorTile extends TileEntity implements IInventory, ISidedInventory, IEnergySink, IWrenchable {
 

@@ -1,4 +1,4 @@
-package oldmassfabricator;
+package io.github.ryokusitai.oldmassfabricator;
 
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
